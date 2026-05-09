@@ -1,0 +1,6 @@
+[INFO ] 2026-05-09 08:24:55.263 [TestNG-PoolService-1] HelperClass - URl is launched
+[INFO ] 2026-05-09 08:24:55.263 [TestNG-PoolService-2] HelperClass - URl is launched
+[INFO ] 2026-05-09 08:28:15.072 [TestNG-PoolService-1] HelperClass - URl is launched
+[INFO ] 2026-05-09 08:28:15.072 [TestNG-PoolService-2] HelperClass - URl is launched
+[INFO ] 2026-05-09 08:28:19.035 [TestNG-PoolService-2] LoginPageActions - Username and password is sended
+[INFO ] 2026-05-09 08:28:19.217 [TestNG-PoolService-1] LoginPageActions - Username and password is sended
