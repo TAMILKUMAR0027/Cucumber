@@ -7,7 +7,7 @@ import java.util.Properties;
 public class LoadProperties {
 	static Properties prop=new Properties();
 	public static Properties getProp() {
-	File file=new File("D:\\Assessment\\DemoBlazeCucumberProject\\src\\test\\resources\\testData.properties");
+	File file=new File("C:\\Users\\tamil\\git\\repository19\\DemoBlazeCucumberProject\\src\\test\\resources\\testData.properties");
 	FileInputStream fileInput=null;
 	try {
 		fileInput=new FileInputStream(file);
